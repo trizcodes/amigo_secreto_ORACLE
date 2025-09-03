@@ -3,7 +3,7 @@
 Um projeto simples em **HTML, CSS e JavaScript** para simular um sorteio de amigo secreto. O usuário pode adicionar nomes em uma lista e, em seguida, sortear aleatoriamente um dos amigos
 
 ## 📸 Demonstração
-<img src="assets/amigo-secreto.png" alt="Imagem do projeto" width="400"/>
+<img src="assets/amigo.jpg" alt="Imagem do projeto" width="400"/>
 
 ## 🛠 Tecnologias utilizadas
 - **HTML5**
